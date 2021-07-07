@@ -32,7 +32,7 @@
 #define HTTP 80
 #define HTTPS 443
 
-#define BUF 65536
+#define BUF 65536 
 #define ERR 1
 
 #define MYETH "eth0"
